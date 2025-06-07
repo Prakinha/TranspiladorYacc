@@ -363,6 +363,7 @@ def p_expr_id(p):
 def p_error(p):
     if p:
         print(f"Syntax error at {p.value!r}")
+        sys.exit(1)
     else:
         print("Syntax error at EOF")
 
