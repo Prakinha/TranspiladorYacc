@@ -14,7 +14,7 @@ toda expressao termina com ", ta ligado?"
 
 
 
-resumo da gramatica
+# resumo da gramatica
 
 maizi: operador de adição (+).
 
